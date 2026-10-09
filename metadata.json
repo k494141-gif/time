@@ -1,0 +1,8 @@
+{
+  "name": "Apex Iron Gym & Fitness Club",
+  "description": "Modern premium gym and fitness center featuring elite workout programs, expert trainers, membership booking, BMI calculator, class schedule, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
